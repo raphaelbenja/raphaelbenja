@@ -2,7 +2,7 @@
 
 A nicer look at your GitHub Profile! With charts!
 
-![demo](screenshoot.png)
+![demo](https://github.com/raphaelbenja/raphaelbenja/blob/main/screenshot.png)
 
 Built with:
 
